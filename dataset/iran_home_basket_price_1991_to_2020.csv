@@ -1,0 +1,646 @@
+Item,Year,Price per Kg in Rial,President,Population
+Apples,1991,86.359,Akbar Hashemi Rafsanjani,57679034.00000001
+Apples,1992,120.06150000000001,Akbar Hashemi Rafsanjani,58780370.0
+Apples,1993,116.679,Akbar Hashemi Rafsanjani,59723764.0
+Apples,1994,250.7934,Akbar Hashemi Rafsanjani,60590614.0
+Apples,1995,515.085,Akbar Hashemi Rafsanjani,61442664.00000001
+Apples,1996,481.1442,Akbar Hashemi Rafsanjani,62294920.0
+Apples,1997,604.9883,Mohammad Khatami,63136312.00000001
+Apples,1998,540.211,Mohammad Khatami,63971835.99999999
+Apples,1999,848.5848000000001,Mohammad Khatami,64800880.0
+Apples,2000,1133.0186999999999,Mohammad Khatami,65623405.0
+Apples,2001,992.243,Mohammad Khatami,66449112.00000001
+Apples,2002,1759.9036,Mohammad Khatami,67284796.0
+Apples,2003,1591.0805999999998,Mohammad Khatami,68122938.0
+Apples,2004,1784.6136,Mohammad Khatami,68951281.0
+Apples,2005,1925.2524,Mahmoud Ahmadinejad,69762347.00000001
+Apples,2006,2789.514,Mahmoud Ahmadinejad,70554760.0
+Apples,2007,3925.863,Mahmoud Ahmadinejad,71336475.0
+Apples,2008,4377.4204,Mahmoud Ahmadinejad,72120604.0
+Apples,2009,6257.7216,Mahmoud Ahmadinejad,72924837.0
+Apples,2010,6091.901400000001,Mahmoud Ahmadinejad,73762519.0
+Apples,2011,7426.953600000001,Mahmoud Ahmadinejad,74634957.0
+Apples,2012,7634.9425,Mahmoud Ahmadinejad,75539878.0
+Apples,2013,14679.640800000001,Hassan Rouhani,76481961.0
+Apples,2014,15193.6437,Hassan Rouhani,77465770.0
+Apples,2015,12808.3565,Hassan Rouhani,78492215.0
+Apples,2016,15268.4246,Hassan Rouhani,79563989.0
+Apples,2017,14037.985,Hassan Rouhani,80673883.0
+Apples,2018,31367.206400000003,Hassan Rouhani,81800188.0
+"Beans, dry",1992,428.0425,Akbar Hashemi Rafsanjani,58780370.0
+"Beans, dry",1993,451.23,Akbar Hashemi Rafsanjani,59723764.0
+"Beans, dry",1994,985.2249,Akbar Hashemi Rafsanjani,60590614.0
+"Beans, dry",1995,2104.155,Akbar Hashemi Rafsanjani,61442664.00000001
+"Beans, dry",1996,1871.7014000000001,Akbar Hashemi Rafsanjani,62294920.0
+"Beans, dry",1997,2069.2434000000003,Mohammad Khatami,63136312.00000001
+"Beans, dry",1998,1966.5603999999998,Mohammad Khatami,63971835.99999999
+"Beans, dry",1999,2250.3768,Mohammad Khatami,64800880.0
+"Beans, dry",2000,2692.9969,Mohammad Khatami,65623405.0
+"Beans, dry",2001,4079.2897,Mohammad Khatami,66449112.00000001
+"Beans, dry",2002,4158.7047,Mohammad Khatami,67284796.0
+"Beans, dry",2003,3752.394,Mohammad Khatami,68122938.0
+"Beans, dry",2004,3611.4309,Mohammad Khatami,68951281.0
+"Beans, dry",2005,3876.4975,Mahmoud Ahmadinejad,69762347.00000001
+"Beans, dry",2006,6422.668,Mahmoud Ahmadinejad,70554760.0
+"Beans, dry",2007,8291.6454,Mahmoud Ahmadinejad,71336475.0
+"Beans, dry",2008,8836.8644,Mahmoud Ahmadinejad,72120604.0
+"Beans, dry",2009,9722.944800000001,Mahmoud Ahmadinejad,72924837.0
+"Beans, dry",2010,11887.4622,Mahmoud Ahmadinejad,73762519.0
+"Beans, dry",2011,14012.0584,Mahmoud Ahmadinejad,74634957.0
+"Beans, dry",2012,26368.615000000005,Mahmoud Ahmadinejad,75539878.0
+"Beans, dry",2013,45432.8622,Hassan Rouhani,76481961.0
+"Beans, dry",2014,34530.06509999999,Hassan Rouhani,77465770.0
+"Beans, dry",2015,37705.5967,Hassan Rouhani,78492215.0
+"Beans, dry",2016,48711.18980000001,Hassan Rouhani,79563989.0
+"Beans, dry",2017,51849.173,Hassan Rouhani,80673883.0
+"Beans, dry",2018,68692.384,Hassan Rouhani,81800188.0
+Dates,1991,420.34860000000003,Akbar Hashemi Rafsanjani,57679034.00000001
+Dates,1992,532.1875,Akbar Hashemi Rafsanjani,58780370.0
+Dates,1993,447.136,Akbar Hashemi Rafsanjani,59723764.0
+Dates,1994,574.6025999999999,Akbar Hashemi Rafsanjani,60590614.0
+Dates,1995,1101.4125,Akbar Hashemi Rafsanjani,61442664.00000001
+Dates,1996,779.0894000000001,Akbar Hashemi Rafsanjani,62294920.0
+Dates,1997,1082.1426,Mohammad Khatami,63136312.00000001
+Dates,1998,1204.8148,Mohammad Khatami,63971835.99999999
+Dates,1999,1532.7927999999997,Mohammad Khatami,64800880.0
+Dates,2000,1327.8727,Mohammad Khatami,65623405.0
+Dates,2001,1588.2051,Mohammad Khatami,66449112.00000001
+Dates,2002,2409.1616,Mohammad Khatami,67284796.0
+Dates,2003,2013.0201,Mohammad Khatami,68122938.0
+Dates,2004,2705.3433000000005,Mohammad Khatami,68951281.0
+Dates,2005,2898.6341999999995,Mahmoud Ahmadinejad,69762347.00000001
+Dates,2006,3130.638,Mahmoud Ahmadinejad,70554760.0
+Dates,2007,3817.2753000000002,Mahmoud Ahmadinejad,71336475.0
+Dates,2008,5837.8176,Mahmoud Ahmadinejad,72120604.0
+Dates,2009,8226.576,Mahmoud Ahmadinejad,72924837.0
+Dates,2010,7044.498,Mahmoud Ahmadinejad,73762519.0
+Dates,2011,5442.8232,Mahmoud Ahmadinejad,74634957.0
+Dates,2012,9250.565,Mahmoud Ahmadinejad,75539878.0
+Dates,2013,17857.8972,Hassan Rouhani,76481961.0
+Dates,2014,16926.5025,Hassan Rouhani,77465770.0
+Dates,2015,15958.951100000002,Hassan Rouhani,78492215.0
+Dates,2016,24270.581400000003,Hassan Rouhani,79563989.0
+Dates,2017,27032.673600000002,Hassan Rouhani,80673883.0
+Dates,2018,36724.476800000004,Hassan Rouhani,81800188.0
+Eggplants (aubergines),1996,266.3516,Akbar Hashemi Rafsanjani,62294920.0
+Eggplants (aubergines),1997,552.1872999999999,Mohammad Khatami,63136312.00000001
+Eggplants (aubergines),1998,417.74180000000007,Mohammad Khatami,63971835.99999999
+Eggplants (aubergines),1999,376.31440000000003,Mohammad Khatami,64800880.0
+Eggplants (aubergines),2000,530.1175,Mohammad Khatami,65623405.0
+Eggplants (aubergines),2001,568.8449,Mohammad Khatami,66449112.00000001
+Eggplants (aubergines),2002,527.6948000000001,Mohammad Khatami,67284796.0
+Eggplants (aubergines),2003,804.5526,Mohammad Khatami,68122938.0
+Eggplants (aubergines),2004,1161.8936999999999,Mohammad Khatami,68951281.0
+Eggplants (aubergines),2005,855.0702000000001,Mahmoud Ahmadinejad,69762347.00000001
+Eggplants (aubergines),2006,1286.551,Mahmoud Ahmadinejad,70554760.0
+Eggplants (aubergines),2007,1543.4303,Mahmoud Ahmadinejad,71336475.0
+Eggplants (aubergines),2008,1792.2628,Mahmoud Ahmadinejad,72120604.0
+Eggplants (aubergines),2009,1199.4624,Mahmoud Ahmadinejad,72924837.0
+Eggplants (aubergines),2010,1134.0924,Mahmoud Ahmadinejad,73762519.0
+Eggplants (aubergines),2011,3833.4376,Mahmoud Ahmadinejad,74634957.0
+Eggplants (aubergines),2012,4116.3675,Mahmoud Ahmadinejad,75539878.0
+Eggplants (aubergines),2013,6168.69,Hassan Rouhani,76481961.0
+Eggplants (aubergines),2014,6889.9296,Hassan Rouhani,77465770.0
+Eggplants (aubergines),2015,9048.530899999998,Hassan Rouhani,78492215.0
+Eggplants (aubergines),2016,7202.962,Hassan Rouhani,79563989.0
+Eggplants (aubergines),2017,6592.0384,Hassan Rouhani,80673883.0
+Eggplants (aubergines),2018,13566.848,Hassan Rouhani,81800188.0
+"Fruit, citrus nes",2002,1521.6121,Mohammad Khatami,67284796.0
+"Fruit, citrus nes",2003,1873.7390999999998,Mohammad Khatami,68122938.0
+"Fruit, citrus nes",2004,1515.0267,Mohammad Khatami,68951281.0
+"Fruit, citrus nes",2005,1836.5186999999999,Mahmoud Ahmadinejad,69762347.00000001
+"Fruit, citrus nes",2006,2156.784,Mahmoud Ahmadinejad,70554760.0
+"Fruit, citrus nes",2007,2696.1305,Mahmoud Ahmadinejad,71336475.0
+"Fruit, citrus nes",2008,3152.7232,Mahmoud Ahmadinejad,72120604.0
+"Fruit, citrus nes",2009,4509.8207999999995,Mahmoud Ahmadinejad,72924837.0
+"Fruit, citrus nes",2011,4884.421600000001,Mahmoud Ahmadinejad,74634957.0
+"Fruit, citrus nes",2012,6612.2425,Mahmoud Ahmadinejad,75539878.0
+"Fruit, citrus nes",2013,9689.446800000002,Hassan Rouhani,76481961.0
+"Fruit, citrus nes",2014,14057.427899999999,Hassan Rouhani,77465770.0
+"Fruit, citrus nes",2015,15457.0608,Hassan Rouhani,78492215.0
+"Fruit, citrus nes",2016,22193.1606,Hassan Rouhani,79563989.0
+"Fruit, citrus nes",2017,25351.438,Hassan Rouhani,80673883.0
+"Fruit, citrus nes",2018,31918.870400000003,Hassan Rouhani,81800188.0
+"Fruit, fresh nes",1995,293.4225,Akbar Hashemi Rafsanjani,61442664.00000001
+"Fruit, fresh nes",1996,390.0932,Akbar Hashemi Rafsanjani,62294920.0
+"Fruit, fresh nes",1997,593.8722999999999,Mohammad Khatami,63136312.00000001
+"Fruit, fresh nes",1998,482.503,Mohammad Khatami,63971835.99999999
+"Fruit, fresh nes",1999,639.1503999999999,Mohammad Khatami,64800880.0
+"Fruit, fresh nes",2000,842.457,Mohammad Khatami,65623405.0
+"Fruit, fresh nes",2001,946.0205,Mohammad Khatami,66449112.00000001
+"Fruit, fresh nes",2002,888.9309,Mohammad Khatami,67284796.0
+"Fruit, fresh nes",2003,1586.1648,Mohammad Khatami,68122938.0
+"Fruit, fresh nes",2004,1757.052,Mohammad Khatami,68951281.0
+"Fruit, fresh nes",2005,2427.1803999999997,Mahmoud Ahmadinejad,69762347.00000001
+"Fruit, fresh nes",2006,3239.761,Mahmoud Ahmadinejad,70554760.0
+"Fruit, fresh nes",2007,4188.5153,Mahmoud Ahmadinejad,71336475.0
+"Fruit, fresh nes",2008,7107.769200000001,Mahmoud Ahmadinejad,72120604.0
+"Fruit, fresh nes",2009,9128.1456,Mahmoud Ahmadinejad,72924837.0
+Garlic,1996,479.60839999999996,Akbar Hashemi Rafsanjani,62294920.0
+Garlic,1997,680.5771,Mohammad Khatami,63136312.00000001
+Garlic,1998,2360.2572,Mohammad Khatami,63971835.99999999
+Garlic,1999,2539.4964000000004,Mohammad Khatami,64800880.0
+Garlic,2000,1584.0484,Mohammad Khatami,65623405.0
+Garlic,2001,1435.3627,Mohammad Khatami,66449112.00000001
+Garlic,2002,2932.0215,Mohammad Khatami,67284796.0
+Garlic,2003,1890.9444,Mohammad Khatami,68122938.0
+Garlic,2004,1863.8532,Mohammad Khatami,68951281.0
+Garlic,2005,2480.0621,Mahmoud Ahmadinejad,69762347.00000001
+Garlic,2006,2350.271,Mahmoud Ahmadinejad,70554760.0
+Garlic,2007,2651.5816999999997,Mahmoud Ahmadinejad,71336475.0
+Garlic,2008,2841.5991999999997,Mahmoud Ahmadinejad,72120604.0
+Garlic,2009,2857.6007999999997,Mahmoud Ahmadinejad,72924837.0
+Garlic,2010,4458.4392,Mahmoud Ahmadinejad,73762519.0
+Garlic,2011,11124.5064,Mahmoud Ahmadinejad,74634957.0
+Garlic,2012,9933.5825,Mahmoud Ahmadinejad,75539878.0
+Garlic,2013,7393.221,Hassan Rouhani,76481961.0
+Garlic,2014,8454.1719,Hassan Rouhani,77465770.0
+Garlic,2015,16063.390700000002,Hassan Rouhani,78492215.0
+Garlic,2016,32091.823399999997,Hassan Rouhani,79563989.0
+Garlic,2017,52274.4658,Hassan Rouhani,80673883.0
+Garlic,2018,19222.4256,Hassan Rouhani,81800188.0
+"Honey, natural",1992,2891.2355000000007,Akbar Hashemi Rafsanjani,58780370.0
+"Honey, natural",1993,4130.223,Akbar Hashemi Rafsanjani,59723764.0
+"Honey, natural",1994,5146.637100000001,Akbar Hashemi Rafsanjani,60590614.0
+"Honey, natural",1995,6229.8375,Akbar Hashemi Rafsanjani,61442664.00000001
+"Honey, natural",1996,6868.097600000001,Akbar Hashemi Rafsanjani,62294920.0
+"Honey, natural",1997,5139.4826,Mohammad Khatami,63136312.00000001
+"Honey, natural",1998,14230.151600000001,Mohammad Khatami,63971835.99999999
+"Honey, natural",1999,15044.232,Mohammad Khatami,64800880.0
+"Honey, natural",2000,15618.694300000001,Mohammad Khatami,65623405.0
+"Honey, natural",2001,15003.8235,Mohammad Khatami,66449112.00000001
+"Honey, natural",2002,18868.5426,Mohammad Khatami,67284796.0
+"Honey, natural",2003,19063.472400000002,Mohammad Khatami,68122938.0
+"Honey, natural",2004,22774.494599999998,Mohammad Khatami,68951281.0
+"Honey, natural",2005,27783.507400000002,Mahmoud Ahmadinejad,69762347.00000001
+"Honey, natural",2006,37130.247,Mahmoud Ahmadinejad,70554760.0
+"Honey, natural",2007,43935.325899999996,Mahmoud Ahmadinejad,71336475.0
+"Honey, natural",2008,51066.762,Mahmoud Ahmadinejad,72120604.0
+"Honey, natural",2009,77454.1008,Mahmoud Ahmadinejad,72924837.0
+"Honey, natural",2010,85218.9432,Mahmoud Ahmadinejad,73762519.0
+"Honey, natural",2011,103667.3632,Mahmoud Ahmadinejad,74634957.0
+"Honey, natural",2012,189794.8575,Mahmoud Ahmadinejad,75539878.0
+"Honey, natural",2013,207673.092,Hassan Rouhani,76481961.0
+"Honey, natural",2014,216018.4893,Hassan Rouhani,77465770.0
+"Honey, natural",2015,244910.862,Hassan Rouhani,78492215.0
+"Honey, natural",2016,206505.52,Hassan Rouhani,79563989.0
+"Honey, natural",2017,149885.80860000002,Hassan Rouhani,80673883.0
+"Honey, natural",2018,274569.30240000004,Hassan Rouhani,81800188.0
+Lemons and limes,1992,167.549,Akbar Hashemi Rafsanjani,58780370.0
+Lemons and limes,1993,152.991,Akbar Hashemi Rafsanjani,59723764.0
+Lemons and limes,1994,329.67,Akbar Hashemi Rafsanjani,60590614.0
+Lemons and limes,1995,931.5,Akbar Hashemi Rafsanjani,61442664.00000001
+Lemons and limes,1996,1410.9614000000001,Akbar Hashemi Rafsanjani,62294920.0
+Lemons and limes,1997,1264.7229000000002,Mohammad Khatami,63136312.00000001
+Lemons and limes,1998,1696.2946000000002,Mohammad Khatami,63971835.99999999
+Lemons and limes,1999,3360.546,Mohammad Khatami,64800880.0
+Lemons and limes,2000,2317.6164,Mohammad Khatami,65623405.0
+Lemons and limes,2001,2171.2248999999997,Mohammad Khatami,66449112.00000001
+Lemons and limes,2002,2139.7886000000003,Mohammad Khatami,67284796.0
+Lemons and limes,2003,2430.8631,Mohammad Khatami,68122938.0
+Lemons and limes,2004,2549.448,Mohammad Khatami,68951281.0
+Lemons and limes,2005,1798.8740999999998,Mahmoud Ahmadinejad,69762347.00000001
+Lemons and limes,2006,2175.124,Mahmoud Ahmadinejad,70554760.0
+Lemons and limes,2007,2545.7783000000004,Mahmoud Ahmadinejad,71336475.0
+Lemons and limes,2008,4879.9328,Mahmoud Ahmadinejad,72120604.0
+Lemons and limes,2009,6180.7824,Mahmoud Ahmadinejad,72924837.0
+Lemons and limes,2010,7573.6044,Mahmoud Ahmadinejad,73762519.0
+Lemons and limes,2011,7647.7663999999995,Mahmoud Ahmadinejad,74634957.0
+Lemons and limes,2012,26888.4875,Mahmoud Ahmadinejad,75539878.0
+Lemons and limes,2013,33115.7376,Hassan Rouhani,76481961.0
+Lemons and limes,2014,33824.469900000004,Hassan Rouhani,77465770.0
+Lemons and limes,2015,47470.6993,Hassan Rouhani,78492215.0
+Lemons and limes,2016,51091.567800000004,Hassan Rouhani,79563989.0
+Lemons and limes,2017,82925.4508,Hassan Rouhani,80673883.0
+Lemons and limes,2018,85659.1168,Hassan Rouhani,81800188.0
+Lentils,1991,233.4759,Akbar Hashemi Rafsanjani,57679034.00000001
+Lentils,1992,340.14149999999995,Akbar Hashemi Rafsanjani,58780370.0
+Lentils,1993,521.629,Akbar Hashemi Rafsanjani,59723764.0
+Lentils,1994,1094.5043999999998,Akbar Hashemi Rafsanjani,60590614.0
+Lentils,1995,1909.23,Akbar Hashemi Rafsanjani,61442664.00000001
+Lentils,1996,1393.8482,Akbar Hashemi Rafsanjani,62294920.0
+Lentils,1997,1676.2928,Mohammad Khatami,63136312.00000001
+Lentils,1998,2536.5872000000004,Mohammad Khatami,63971835.99999999
+Lentils,1999,4411.4728000000005,Mohammad Khatami,64800880.0
+Lentils,2000,3870.7174,Mohammad Khatami,65623405.0
+Lentils,2001,2426.3731000000002,Mohammad Khatami,66449112.00000001
+Lentils,2002,2674.3903999999998,Mohammad Khatami,67284796.0
+Lentils,2003,2333.3664,Mohammad Khatami,68122938.0
+Lentils,2004,3484.8198,Mohammad Khatami,68951281.0
+Lentils,2005,4235.0175,Mahmoud Ahmadinejad,69762347.00000001
+Lentils,2006,5325.019,Mahmoud Ahmadinejad,70554760.0
+Lentils,2007,6287.8775,Mahmoud Ahmadinejad,71336475.0
+Lentils,2008,10223.7232,Mahmoud Ahmadinejad,72120604.0
+Lentils,2009,10188.5256,Mahmoud Ahmadinejad,72924837.0
+Lentils,2010,10310.397,Mahmoud Ahmadinejad,73762519.0
+Lentils,2011,13549.200799999999,Mahmoud Ahmadinejad,74634957.0
+Lentils,2012,18975.955,Mahmoud Ahmadinejad,75539878.0
+Lentils,2013,25693.0542,Hassan Rouhani,76481961.0
+Lentils,2014,28265.313599999998,Hassan Rouhani,77465770.0
+Lentils,2015,36646.6952,Hassan Rouhani,78492215.0
+Lentils,2016,45795.9996,Hassan Rouhani,79563989.0
+Lentils,2017,49785.83840000001,Hassan Rouhani,80673883.0
+Lentils,2018,49314.6752,Hassan Rouhani,81800188.0
+"Meat live weight, cattle",1991,1162.8315999999998,Akbar Hashemi Rafsanjani,57679034.00000001
+"Meat live weight, cattle",1992,1658.853,Akbar Hashemi Rafsanjani,58780370.0
+"Meat live weight, cattle",1993,2040.325,Akbar Hashemi Rafsanjani,59723764.0
+"Meat live weight, cattle",1994,2296.9452,Akbar Hashemi Rafsanjani,60590614.0
+"Meat live weight, cattle",1995,3797.415,Akbar Hashemi Rafsanjani,61442664.00000001
+"Meat live weight, cattle",1996,4362.3302,Akbar Hashemi Rafsanjani,62294920.0
+"Meat live weight, cattle",1997,4353.3035,Mohammad Khatami,63136312.00000001
+"Meat live weight, cattle",1998,6013.1736,Mohammad Khatami,63971835.99999999
+"Meat live weight, cattle",1999,7322.6944,Mohammad Khatami,64800880.0
+"Meat live weight, cattle",2000,8025.119299999999,Mohammad Khatami,65623405.0
+"Meat live weight, cattle",2001,8561.023299999999,Mohammad Khatami,66449112.00000001
+"Meat live weight, cattle",2002,11574.7506,Mohammad Khatami,67284796.0
+"Meat live weight, cattle",2003,14395.9203,Mohammad Khatami,68122938.0
+"Meat live weight, cattle",2004,14875.512299999999,Mohammad Khatami,68951281.0
+"Meat live weight, cattle",2005,16110.9925,Mahmoud Ahmadinejad,69762347.00000001
+"Meat live weight, cattle",2006,19494.503,Mahmoud Ahmadinejad,70554760.0
+"Meat live weight, cattle",2007,23507.844900000004,Mahmoud Ahmadinejad,71336475.0
+"Meat live weight, cattle",2008,26476.652400000003,Mahmoud Ahmadinejad,72120604.0
+"Meat live weight, cattle",2009,34873.185600000004,Mahmoud Ahmadinejad,72924837.0
+"Meat live weight, cattle",2010,42131.635200000004,Mahmoud Ahmadinejad,73762519.0
+"Meat live weight, cattle",2011,46342.02480000001,Mahmoud Ahmadinejad,74634957.0
+"Meat live weight, cattle",2012,84209.605,Mahmoud Ahmadinejad,75539878.0
+"Meat live weight, cattle",2013,108747.5598,Hassan Rouhani,76481961.0
+"Meat live weight, cattle",2014,107177.8356,Hassan Rouhani,77465770.0
+"Meat live weight, cattle",2015,113885.58159999999,Hassan Rouhani,78492215.0
+"Meat live weight, cattle",2016,117395.915,Hassan Rouhani,79563989.0
+"Meat live weight, cattle",2017,135498.95059999998,Hassan Rouhani,80673883.0
+"Meat live weight, cattle",2018,237150.1376,Hassan Rouhani,81800188.0
+"Meat live weight, sheep",1991,1351.3395,Akbar Hashemi Rafsanjani,57679034.00000001
+"Meat live weight, sheep",1992,1754.8105,Akbar Hashemi Rafsanjani,58780370.0
+"Meat live weight, sheep",1993,2311.953,Akbar Hashemi Rafsanjani,59723764.0
+"Meat live weight, sheep",1994,2742.1218000000003,Akbar Hashemi Rafsanjani,60590614.0
+"Meat live weight, sheep",1995,4133.6175,Akbar Hashemi Rafsanjani,61442664.00000001
+"Meat live weight, sheep",1996,4850.275799999999,Akbar Hashemi Rafsanjani,62294920.0
+"Meat live weight, sheep",1997,4764.8733999999995,Mohammad Khatami,63136312.00000001
+"Meat live weight, sheep",1998,5882.3688,Mohammad Khatami,63971835.99999999
+"Meat live weight, sheep",1999,7466.211199999999,Mohammad Khatami,64800880.0
+"Meat live weight, sheep",2000,9025.751900000001,Mohammad Khatami,65623405.0
+"Meat live weight, sheep",2001,10384.038700000001,Mohammad Khatami,66449112.00000001
+"Meat live weight, sheep",2002,13225.5236,Mohammad Khatami,67284796.0
+"Meat live weight, sheep",2003,16307.347200000002,Mohammad Khatami,68122938.0
+"Meat live weight, sheep",2004,17151.9282,Mohammad Khatami,68951281.0
+"Meat live weight, sheep",2005,17223.3008,Mahmoud Ahmadinejad,69762347.00000001
+"Meat live weight, sheep",2006,19975.928,Mahmoud Ahmadinejad,70554760.0
+"Meat live weight, sheep",2007,25514.3971,Mahmoud Ahmadinejad,71336475.0
+"Meat live weight, sheep",2008,30754.136,Mahmoud Ahmadinejad,72120604.0
+"Meat live weight, sheep",2009,46814.544,Mahmoud Ahmadinejad,72924837.0
+"Meat live weight, sheep",2010,59818.7598,Mahmoud Ahmadinejad,73762519.0
+"Meat live weight, sheep",2011,66481.6384,Mahmoud Ahmadinejad,74634957.0
+"Meat live weight, sheep",2012,87243.615,Mahmoud Ahmadinejad,75539878.0
+"Meat live weight, sheep",2013,107952.075,Hassan Rouhani,76481961.0
+"Meat live weight, sheep",2014,106988.46630000001,Hassan Rouhani,77465770.0
+"Meat live weight, sheep",2015,110088.04169999999,Hassan Rouhani,78492215.0
+"Meat live weight, sheep",2016,124045.5164,Hassan Rouhani,79563989.0
+"Meat live weight, sheep",2017,158660.7952,Hassan Rouhani,80673883.0
+"Meat live weight, sheep",2018,234759.5936,Hassan Rouhani,81800188.0
+"Milk, whole fresh cow",1991,191.52280000000002,Akbar Hashemi Rafsanjani,57679034.00000001
+"Milk, whole fresh cow",1992,225.05800000000002,Akbar Hashemi Rafsanjani,58780370.0
+"Milk, whole fresh cow",1993,300.286,Akbar Hashemi Rafsanjani,59723764.0
+"Milk, whole fresh cow",1994,365.81160000000006,Akbar Hashemi Rafsanjani,60590614.0
+"Milk, whole fresh cow",1995,499.905,Akbar Hashemi Rafsanjani,61442664.00000001
+"Milk, whole fresh cow",1996,660.6134000000001,Akbar Hashemi Rafsanjani,62294920.0
+"Milk, whole fresh cow",1997,791.4592000000001,Mohammad Khatami,63136312.00000001
+"Milk, whole fresh cow",1998,875.238,Mohammad Khatami,63971835.99999999
+"Milk, whole fresh cow",1999,911.582,Mohammad Khatami,64800880.0
+"Milk, whole fresh cow",2000,1144.4806999999998,Mohammad Khatami,65623405.0
+"Milk, whole fresh cow",2001,1213.4947,Mohammad Khatami,66449112.00000001
+"Milk, whole fresh cow",2002,1328.9068,Mohammad Khatami,67284796.0
+"Milk, whole fresh cow",2003,1589.442,Mohammad Khatami,68122938.0
+"Milk, whole fresh cow",2004,1893.9986999999999,Mohammad Khatami,68951281.0
+"Milk, whole fresh cow",2005,2092.8605,Mahmoud Ahmadinejad,69762347.00000001
+"Milk, whole fresh cow",2006,2441.054,Mahmoud Ahmadinejad,70554760.0
+"Milk, whole fresh cow",2007,2857.6198999999997,Mahmoud Ahmadinejad,71336475.0
+"Milk, whole fresh cow",2008,3554.356,Mahmoud Ahmadinejad,72120604.0
+"Milk, whole fresh cow",2009,3754.2384,Mahmoud Ahmadinejad,72924837.0
+"Milk, whole fresh cow",2010,3792.9545999999996,Mahmoud Ahmadinejad,73762519.0
+"Milk, whole fresh cow",2011,4689.0872,Mahmoud Ahmadinejad,74634957.0
+"Milk, whole fresh cow",2012,8086.635000000001,Mahmoud Ahmadinejad,75539878.0
+"Milk, whole fresh cow",2013,9814.662,Hassan Rouhani,76481961.0
+"Milk, whole fresh cow",2014,11118.312600000001,Hassan Rouhani,77465770.0
+"Milk, whole fresh cow",2015,11273.674600000002,Hassan Rouhani,78492215.0
+"Milk, whole fresh cow",2016,11317.6154,Hassan Rouhani,79563989.0
+"Milk, whole fresh cow",2017,11801.875199999999,Hassan Rouhani,80673883.0
+"Milk, whole fresh cow",2018,15822.540799999999,Hassan Rouhani,81800188.0
+"Onions, dry",1991,60.298,Akbar Hashemi Rafsanjani,57679034.00000001
+"Onions, dry",1992,44.671,Akbar Hashemi Rafsanjani,58780370.0
+"Onions, dry",1993,225.971,Akbar Hashemi Rafsanjani,59723764.0
+"Onions, dry",1994,118.6812,Akbar Hashemi Rafsanjani,60590614.0
+"Onions, dry",1995,201.9975,Akbar Hashemi Rafsanjani,61442664.00000001
+"Onions, dry",1996,414.666,Akbar Hashemi Rafsanjani,62294920.0
+"Onions, dry",1997,239.8277,Mohammad Khatami,63136312.00000001
+"Onions, dry",1998,552.0731999999999,Mohammad Khatami,63971835.99999999
+"Onions, dry",1999,457.2511999999999,Mohammad Khatami,64800880.0
+"Onions, dry",2000,796.0359,Mohammad Khatami,65623405.0
+"Onions, dry",2001,580.5545999999999,Mohammad Khatami,66449112.00000001
+"Onions, dry",2002,559.467,Mohammad Khatami,67284796.0
+"Onions, dry",2003,794.721,Mohammad Khatami,68122938.0
+"Onions, dry",2004,761.3892000000001,Mohammad Khatami,68951281.0
+"Onions, dry",2005,1075.56,Mahmoud Ahmadinejad,69762347.00000001
+"Onions, dry",2006,1307.642,Mahmoud Ahmadinejad,70554760.0
+"Onions, dry",2007,1160.125,Mahmoud Ahmadinejad,71336475.0
+"Onions, dry",2008,1628.2155999999998,Mahmoud Ahmadinejad,72120604.0
+"Onions, dry",2009,2859.5735999999997,Mahmoud Ahmadinejad,72924837.0
+"Onions, dry",2010,1993.3776,Mahmoud Ahmadinejad,73762519.0
+"Onions, dry",2011,1837.6295999999998,Mahmoud Ahmadinejad,74634957.0
+"Onions, dry",2012,3437.0025,Mahmoud Ahmadinejad,75539878.0
+"Onions, dry",2013,6183.4212,Hassan Rouhani,76481961.0
+"Onions, dry",2014,7177.874699999999,Hassan Rouhani,77465770.0
+"Onions, dry",2015,7157.0136999999995,Hassan Rouhani,78492215.0
+"Onions, dry",2016,4825.675399999999,Hassan Rouhani,79563989.0
+"Onions, dry",2017,9854.831600000001,Hassan Rouhani,80673883.0
+"Onions, dry",2018,11352.0192,Hassan Rouhani,81800188.0
+Oranges,1991,79.6138,Akbar Hashemi Rafsanjani,57679034.00000001
+Oranges,1992,68.775,Akbar Hashemi Rafsanjani,58780370.0
+Oranges,1993,225.882,Akbar Hashemi Rafsanjani,59723764.0
+Oranges,1994,312.576,Akbar Hashemi Rafsanjani,60590614.0
+Oranges,1995,569.595,Akbar Hashemi Rafsanjani,61442664.00000001
+Oranges,1996,636.26,Akbar Hashemi Rafsanjani,62294920.0
+Oranges,1997,663.3472999999999,Mohammad Khatami,63136312.00000001
+Oranges,1998,881.9706000000001,Mohammad Khatami,63971835.99999999
+Oranges,1999,955.8051999999999,Mohammad Khatami,64800880.0
+Oranges,2000,1180.0129000000002,Mohammad Khatami,65623405.0
+Oranges,2001,1354.0111,Mohammad Khatami,66449112.00000001
+Oranges,2002,2224.7447,Mohammad Khatami,67284796.0
+Oranges,2003,2140.8309,Mohammad Khatami,68122938.0
+Oranges,2004,1614.9375,Mohammad Khatami,68951281.0
+Oranges,2005,2154.7052000000003,Mahmoud Ahmadinejad,69762347.00000001
+Oranges,2006,2875.712,Mahmoud Ahmadinejad,70554760.0
+Oranges,2007,3515.6428,Mahmoud Ahmadinejad,71336475.0
+Oranges,2008,3475.1608,Mahmoud Ahmadinejad,72120604.0
+Oranges,2009,4166.553599999999,Mahmoud Ahmadinejad,72924837.0
+Oranges,2010,5037.7902,Mahmoud Ahmadinejad,73762519.0
+Oranges,2011,5791.028,Mahmoud Ahmadinejad,74634957.0
+Oranges,2012,7210.035000000001,Mahmoud Ahmadinejad,75539878.0
+Oranges,2013,7041.513599999999,Hassan Rouhani,76481961.0
+Oranges,2014,17191.100700000003,Hassan Rouhani,77465770.0
+Oranges,2015,14493.895600000002,Hassan Rouhani,78492215.0
+Oranges,2016,7580.1128,Hassan Rouhani,79563989.0
+Oranges,2017,8964.374800000001,Hassan Rouhani,80673883.0
+Oranges,2018,14441.337599999999,Hassan Rouhani,81800188.0
+Potatoes,1991,104.755,Akbar Hashemi Rafsanjani,57679034.00000001
+Potatoes,1992,94.975,Akbar Hashemi Rafsanjani,58780370.0
+Potatoes,1993,115.52200000000002,Akbar Hashemi Rafsanjani,59723764.0
+Potatoes,1994,146.76420000000002,Akbar Hashemi Rafsanjani,60590614.0
+Potatoes,1995,490.245,Akbar Hashemi Rafsanjani,61442664.00000001
+Potatoes,1996,454.5968,Akbar Hashemi Rafsanjani,62294920.0
+Potatoes,1997,343.2065,Mohammad Khatami,63136312.00000001
+Potatoes,1998,602.0868,Mohammad Khatami,63971835.99999999
+Potatoes,1999,715.9151999999999,Mohammad Khatami,64800880.0
+Potatoes,2000,950.1998000000001,Mohammad Khatami,65623405.0
+Potatoes,2001,531.2506,Mohammad Khatami,66449112.00000001
+Potatoes,2002,824.6958000000001,Mohammad Khatami,67284796.0
+Potatoes,2003,1091.3075999999999,Mohammad Khatami,68122938.0
+Potatoes,2004,941.4009,Mohammad Khatami,68951281.0
+Potatoes,2005,701.8029,Mahmoud Ahmadinejad,69762347.00000001
+Potatoes,2006,1670.774,Mahmoud Ahmadinejad,70554760.0
+Potatoes,2007,2579.1899,Mahmoud Ahmadinejad,71336475.0
+Potatoes,2008,1304.8352,Mahmoud Ahmadinejad,72120604.0
+Potatoes,2009,1970.8272000000002,Mahmoud Ahmadinejad,72924837.0
+Potatoes,2010,2791.1387999999997,Mahmoud Ahmadinejad,73762519.0
+Potatoes,2011,2158.2328,Mahmoud Ahmadinejad,74634957.0
+Potatoes,2012,2515.355,Mahmoud Ahmadinejad,75539878.0
+Potatoes,2013,12394.4634,Hassan Rouhani,76481961.0
+Potatoes,2014,8194.7619,Hassan Rouhani,77465770.0
+Potatoes,2015,5372.837199999999,Hassan Rouhani,78492215.0
+Potatoes,2016,4216.6696,Hassan Rouhani,79563989.0
+Potatoes,2017,6764.8135999999995,Hassan Rouhani,80673883.0
+Potatoes,2018,12447.1744,Hassan Rouhani,81800188.0
+"Rice, paddy",1991,398.3756,Akbar Hashemi Rafsanjani,57679034.00000001
+"Rice, paddy",1992,474.4164999999999,Akbar Hashemi Rafsanjani,58780370.0
+"Rice, paddy",1993,452.387,Akbar Hashemi Rafsanjani,59723764.0
+"Rice, paddy",1994,658.2411,Akbar Hashemi Rafsanjani,60590614.0
+"Rice, paddy",1995,1572.165,Akbar Hashemi Rafsanjani,61442664.00000001
+"Rice, paddy",1996,1064.7482,Akbar Hashemi Rafsanjani,62294920.0
+"Rice, paddy",1997,1096.8713,Mohammad Khatami,63136312.00000001
+"Rice, paddy",1998,2179.4388,Mohammad Khatami,63971835.99999999
+"Rice, paddy",1999,3114.398,Mohammad Khatami,64800880.0
+"Rice, paddy",2000,1942.809,Mohammad Khatami,65623405.0
+"Rice, paddy",2001,2385.081,Mohammad Khatami,66449112.00000001
+"Rice, paddy",2002,3023.8846000000003,Mohammad Khatami,67284796.0
+"Rice, paddy",2003,3140.3768999999998,Mohammad Khatami,68122938.0
+"Rice, paddy",2004,4113.5688,Mohammad Khatami,68951281.0
+"Rice, paddy",2005,3515.2886000000003,Mahmoud Ahmadinejad,69762347.00000001
+"Rice, paddy",2006,9008.608,Mahmoud Ahmadinejad,70554760.0
+"Rice, paddy",2007,4984.825100000001,Mahmoud Ahmadinejad,71336475.0
+"Rice, paddy",2008,10290.662,Mahmoud Ahmadinejad,72120604.0
+"Rice, paddy",2009,6435.2735999999995,Mahmoud Ahmadinejad,72924837.0
+"Rice, paddy",2010,7377.753,Mahmoud Ahmadinejad,73762519.0
+"Rice, paddy",2011,9508.7512,Mahmoud Ahmadinejad,74634957.0
+"Rice, paddy",2012,12237.0925,Mahmoud Ahmadinejad,75539878.0
+"Rice, paddy",2013,23501.7882,Hassan Rouhani,76481961.0
+"Rice, paddy",2014,23359.8705,Hassan Rouhani,77465770.0
+"Rice, paddy",2015,26417.4166,Hassan Rouhani,78492215.0
+"Rice, paddy",2016,35826.2346,Hassan Rouhani,79563989.0
+"Rice, paddy",2017,39731.650799999996,Hassan Rouhani,80673883.0
+"Rice, paddy",2018,48476.9632,Hassan Rouhani,81800188.0
+Soybeans,1991,251.87189999999998,Akbar Hashemi Rafsanjani,57679034.00000001
+Soybeans,1992,266.978,Akbar Hashemi Rafsanjani,58780370.0
+Soybeans,1993,387.862,Akbar Hashemi Rafsanjani,59723764.0
+Soybeans,1994,466.5441,Akbar Hashemi Rafsanjani,60590614.0
+Soybeans,1995,560.97,Akbar Hashemi Rafsanjani,61442664.00000001
+Soybeans,1996,1020.6487999999999,Akbar Hashemi Rafsanjani,62294920.0
+Soybeans,1997,1094.926,Mohammad Khatami,63136312.00000001
+Soybeans,1998,1133.321,Mohammad Khatami,63971835.99999999
+Soybeans,1999,1449.3528,Mohammad Khatami,64800880.0
+Soybeans,2000,1796.6685,Mohammad Khatami,65623405.0
+Soybeans,2001,1890.1920999999998,Mohammad Khatami,66449112.00000001
+Soybeans,2002,2246.8471,Mohammad Khatami,67284796.0
+Soybeans,2003,2324.3541,Mohammad Khatami,68122938.0
+Soybeans,2004,2431.4499,Mohammad Khatami,68951281.0
+Soybeans,2005,2596.5811,Mahmoud Ahmadinejad,69762347.00000001
+Soybeans,2006,2911.475,Mahmoud Ahmadinejad,70554760.0
+Soybeans,2007,4368.5667,Mahmoud Ahmadinejad,71336475.0
+Soybeans,2008,4104.9511999999995,Mahmoud Ahmadinejad,72120604.0
+Soybeans,2009,5070.096,Mahmoud Ahmadinejad,72924837.0
+Soybeans,2010,5419.239,Mahmoud Ahmadinejad,73762519.0
+Soybeans,2011,5662.5743999999995,Mahmoud Ahmadinejad,74634957.0
+Soybeans,2012,10255.0025,Mahmoud Ahmadinejad,75539878.0
+Soybeans,2013,16300.0728,Hassan Rouhani,76481961.0
+Soybeans,2014,16897.967399999998,Hassan Rouhani,77465770.0
+Soybeans,2015,18712.095,Hassan Rouhani,78492215.0
+Soybeans,2016,22013.8594,Hassan Rouhani,79563989.0
+Soybeans,2017,23068.811799999996,Hassan Rouhani,80673883.0
+Soybeans,2018,24473.449599999996,Hassan Rouhani,81800188.0
+Sunflower seed,1991,378.9576,Akbar Hashemi Rafsanjani,57679034.00000001
+Sunflower seed,1992,390.4455,Akbar Hashemi Rafsanjani,58780370.0
+Sunflower seed,1993,582.95,Akbar Hashemi Rafsanjani,59723764.0
+Sunflower seed,1994,670.5732,Akbar Hashemi Rafsanjani,60590614.0
+Sunflower seed,1995,1104.1725,Akbar Hashemi Rafsanjani,61442664.00000001
+Sunflower seed,1996,1194.4135999999999,Akbar Hashemi Rafsanjani,62294920.0
+Sunflower seed,1997,1619.6012,Mohammad Khatami,63136312.00000001
+Sunflower seed,1998,1764.5824,Mohammad Khatami,63971835.99999999
+Sunflower seed,1999,1755.1604,Mohammad Khatami,64800880.0
+Sunflower seed,2000,2347.9907,Mohammad Khatami,65623405.0
+Sunflower seed,2001,2618.0424,Mohammad Khatami,66449112.00000001
+Sunflower seed,2002,2460.9641,Mohammad Khatami,67284796.0
+Sunflower seed,2003,2617.6635,Mohammad Khatami,68122938.0
+Sunflower seed,2004,2621.7971999999995,Mohammad Khatami,68951281.0
+Sunflower seed,2005,3471.3698999999997,Mahmoud Ahmadinejad,69762347.00000001
+Sunflower seed,2006,3793.629,Mahmoud Ahmadinejad,70554760.0
+Sunflower seed,2007,5939.84,Mahmoud Ahmadinejad,71336475.0
+Sunflower seed,2008,12622.206400000001,Mahmoud Ahmadinejad,72120604.0
+Sunflower seed,2009,6033.808800000001,Mahmoud Ahmadinejad,72924837.0
+Sunflower seed,2010,6744.055800000001,Mahmoud Ahmadinejad,73762519.0
+Sunflower seed,2011,8467.3216,Mahmoud Ahmadinejad,74634957.0
+Sunflower seed,2012,11292.3125,Mahmoud Ahmadinejad,75539878.0
+Sunflower seed,2013,23531.250600000003,Hassan Rouhani,76481961.0
+Sunflower seed,2014,15012.056700000001,Hassan Rouhani,77465770.0
+Sunflower seed,2015,43333.7307,Hassan Rouhani,78492215.0
+Sunflower seed,2016,42033.7658,Hassan Rouhani,79563989.0
+Sunflower seed,2017,41459.402799999996,Hassan Rouhani,80673883.0
+Sunflower seed,2018,103892.63360000002,Hassan Rouhani,81800188.0
+Tea,1991,319.57939999999996,Akbar Hashemi Rafsanjani,57679034.00000001
+Tea,1992,384.9435000000001,Akbar Hashemi Rafsanjani,58780370.0
+Tea,1993,499.91300000000007,Akbar Hashemi Rafsanjani,59723764.0
+Tea,1994,569.7185999999999,Akbar Hashemi Rafsanjani,60590614.0
+Tea,1998,760.1426,Mohammad Khatami,63971835.99999999
+Tea,1999,949.9644,Mohammad Khatami,64800880.0
+Tea,2000,1248.7849,Mohammad Khatami,65623405.0
+Tea,2001,1359.5578,Mohammad Khatami,66449112.00000001
+Tea,2002,1515.3958,Mohammad Khatami,67284796.0
+Tea,2003,1532.9103,Mohammad Khatami,68122938.0
+Tea,2004,881.9712000000001,Mohammad Khatami,68951281.0
+Tea,2005,1799.7704,Mahmoud Ahmadinejad,69762347.00000001
+Tea,2006,2130.191,Mahmoud Ahmadinejad,70554760.0
+Tea,2007,2190.316,Mahmoud Ahmadinejad,71336475.0
+Tea,2008,2691.694,Mahmoud Ahmadinejad,72120604.0
+Tea,2009,3233.4192000000003,Mahmoud Ahmadinejad,72924837.0
+Tea,2010,3172.5876,Mahmoud Ahmadinejad,73762519.0
+Tea,2011,3859.9776,Mahmoud Ahmadinejad,74634957.0
+Tea,2012,4264.9025,Mahmoud Ahmadinejad,75539878.0
+Tea,2013,8759.539799999999,Hassan Rouhani,76481961.0
+Tea,2014,14210.4798,Hassan Rouhani,77465770.0
+Tea,2015,17484.929700000004,Hassan Rouhani,78492215.0
+Tea,2016,15812.511,Hassan Rouhani,79563989.0
+Tea,2017,18334.106799999998,Hassan Rouhani,80673883.0
+Tea,2018,19880.336,Hassan Rouhani,81800188.0
+"Tobacco, unmanufactured",1998,2630.2024,Mohammad Khatami,63971835.99999999
+"Tobacco, unmanufactured",1999,3376.8167999999996,Mohammad Khatami,64800880.0
+"Tobacco, unmanufactured",2000,3942.3549,Mohammad Khatami,65623405.0
+"Tobacco, unmanufactured",2001,3902.4116,Mohammad Khatami,66449112.00000001
+"Tobacco, unmanufactured",2002,5415.7787,Mohammad Khatami,67284796.0
+"Tobacco, unmanufactured",2003,8932.8279,Mohammad Khatami,68122938.0
+"Tobacco, unmanufactured",2004,4545.0801,Mohammad Khatami,68951281.0
+"Tobacco, unmanufactured",2005,11149.075700000001,Mahmoud Ahmadinejad,69762347.00000001
+"Tobacco, unmanufactured",2006,12229.112,Mahmoud Ahmadinejad,70554760.0
+"Tobacco, unmanufactured",2007,43755.2745,Mahmoud Ahmadinejad,71336475.0
+"Tobacco, unmanufactured",2008,21578.8064,Mahmoud Ahmadinejad,72120604.0
+"Tobacco, unmanufactured",2009,28489.204799999996,Mahmoud Ahmadinejad,72924837.0
+"Tobacco, unmanufactured",2010,20879.1948,Mahmoud Ahmadinejad,73762519.0
+"Tobacco, unmanufactured",2011,35801.3984,Mahmoud Ahmadinejad,74634957.0
+"Tobacco, unmanufactured",2012,86519.2025,Mahmoud Ahmadinejad,75539878.0
+"Tobacco, unmanufactured",2013,136766.3022,Hassan Rouhani,76481961.0
+"Tobacco, unmanufactured",2014,113315.47619999999,Hassan Rouhani,77465770.0
+"Tobacco, unmanufactured",2015,107859.99690000001,Hassan Rouhani,78492215.0
+"Tobacco, unmanufactured",2016,111936.5026,Hassan Rouhani,79563989.0
+"Tobacco, unmanufactured",2017,100056.7764,Hassan Rouhani,80673883.0
+"Tobacco, unmanufactured",2018,136796.32640000002,Hassan Rouhani,81800188.0
+Tomatoes,1991,88.0964,Akbar Hashemi Rafsanjani,57679034.00000001
+Tomatoes,1992,153.5975,Akbar Hashemi Rafsanjani,58780370.0
+Tomatoes,1993,131.275,Akbar Hashemi Rafsanjani,59723764.0
+Tomatoes,1994,158.6079,Akbar Hashemi Rafsanjani,60590614.0
+Tomatoes,1995,279.45,Akbar Hashemi Rafsanjani,61442664.00000001
+Tomatoes,1996,209.527,Akbar Hashemi Rafsanjani,62294920.0
+Tomatoes,1997,387.3926,Mohammad Khatami,63136312.00000001
+Tomatoes,1998,559.7676,Mohammad Khatami,63971835.99999999
+Tomatoes,1999,246.9824,Mohammad Khatami,64800880.0
+Tomatoes,2000,397.1583,Mohammad Khatami,65623405.0
+Tomatoes,2001,603.974,Mohammad Khatami,66449112.00000001
+Tomatoes,2002,547.0344,Mohammad Khatami,67284796.0
+Tomatoes,2003,530.0871,Mohammad Khatami,68122938.0
+Tomatoes,2004,866.4677999999999,Mohammad Khatami,68951281.0
+Tomatoes,2005,978.7596,Mahmoud Ahmadinejad,69762347.00000001
+Tomatoes,2006,1058.218,Mahmoud Ahmadinejad,70554760.0
+Tomatoes,2007,1126.7134,Mahmoud Ahmadinejad,71336475.0
+Tomatoes,2008,2432.424,Mahmoud Ahmadinejad,72120604.0
+Tomatoes,2009,1237.932,Mahmoud Ahmadinejad,72924837.0
+Tomatoes,2010,2149.2383999999997,Mahmoud Ahmadinejad,73762519.0
+Tomatoes,2011,2681.6016,Mahmoud Ahmadinejad,74634957.0
+Tomatoes,2012,3523.4449999999997,Mahmoud Ahmadinejad,75539878.0
+Tomatoes,2013,7069.134599999999,Hassan Rouhani,76481961.0
+Tomatoes,2014,4908.037199999999,Hassan Rouhani,77465770.0
+Tomatoes,2015,5433.760300000001,Hassan Rouhani,78492215.0
+Tomatoes,2016,3845.7016,Hassan Rouhani,79563989.0
+Tomatoes,2017,5937.486199999999,Hassan Rouhani,80673883.0
+Tomatoes,2018,16680.6848,Hassan Rouhani,81800188.0
+"Vegetables, leguminous nes",1998,285.97520000000003,Mohammad Khatami,63971835.99999999
+"Vegetables, leguminous nes",1999,743.0332,Mohammad Khatami,64800880.0
+"Vegetables, leguminous nes",2000,832.7143000000001,Mohammad Khatami,65623405.0
+"Vegetables, leguminous nes",2001,1133.992,Mohammad Khatami,66449112.00000001
+"Vegetables, leguminous nes",2002,909.6519,Mohammad Khatami,67284796.0
+"Vegetables, leguminous nes",2003,879.9282000000001,Mohammad Khatami,68122938.0
+"Vegetables, leguminous nes",2004,1183.4261999999999,Mohammad Khatami,68951281.0
+"Vegetables, leguminous nes",2005,1218.0717,Mahmoud Ahmadinejad,69762347.00000001
+"Vegetables, leguminous nes",2006,1494.71,Mahmoud Ahmadinejad,70554760.0
+"Vegetables, leguminous nes",2007,2094.7217,Mahmoud Ahmadinejad,71336475.0
+"Vegetables, leguminous nes",2008,2754.8616,Mahmoud Ahmadinejad,72120604.0
+"Vegetables, leguminous nes",2009,1614.7368,Mahmoud Ahmadinejad,72924837.0
+"Vegetables, leguminous nes",2010,2223.0672000000004,Mahmoud Ahmadinejad,73762519.0
+"Vegetables, leguminous nes",2011,3233.6336,Mahmoud Ahmadinejad,74634957.0
+"Vegetables, leguminous nes",2012,4855.39,Mahmoud Ahmadinejad,75539878.0
+"Vegetables, leguminous nes",2013,4973.6214,Hassan Rouhani,76481961.0
+"Vegetables, leguminous nes",2014,4472.2284,Hassan Rouhani,77465770.0
+"Vegetables, leguminous nes",2015,8851.256100000002,Hassan Rouhani,78492215.0
+"Vegetables, leguminous nes",2016,9778.0982,Hassan Rouhani,79563989.0
+"Vegetables, leguminous nes",2017,8203.4994,Hassan Rouhani,80673883.0
+"Vegetables, leguminous nes",2018,11184.476799999999,Hassan Rouhani,81800188.0
+Watermelons,1991,51.1511,Akbar Hashemi Rafsanjani,57679034.00000001
+Watermelons,1992,69.3645,Akbar Hashemi Rafsanjani,58780370.0
+Watermelons,1993,104.931,Akbar Hashemi Rafsanjani,59723764.0
+Watermelons,1994,98.0463,Akbar Hashemi Rafsanjani,60590614.0
+Watermelons,1995,194.925,Akbar Hashemi Rafsanjani,61442664.00000001
+Watermelons,1996,148.095,Akbar Hashemi Rafsanjani,62294920.0
+Watermelons,1997,283.73589999999996,Mohammad Khatami,63136312.00000001
+Watermelons,1998,253.9152,Mohammad Khatami,63971835.99999999
+Watermelons,1999,315.8204,Mohammad Khatami,64800880.0
+Watermelons,2000,410.91270000000003,Mohammad Khatami,65623405.0
+Watermelons,2001,436.9567,Mohammad Khatami,66449112.00000001
+Watermelons,2002,423.3991,Mohammad Khatami,67284796.0
+Watermelons,2003,603.8240999999999,Mohammad Khatami,68122938.0
+Watermelons,2004,881.9712000000001,Mohammad Khatami,68951281.0
+Watermelons,2005,525.2318,Mahmoud Ahmadinejad,69762347.00000001
+Watermelons,2006,1032.542,Mahmoud Ahmadinejad,70554760.0
+Watermelons,2007,965.224,Mahmoud Ahmadinejad,71336475.0
+Watermelons,2008,1330.2908,Mahmoud Ahmadinejad,72120604.0
+Watermelons,2009,1378.9872000000003,Mahmoud Ahmadinejad,72924837.0
+Watermelons,2010,1241.7594,Mahmoud Ahmadinejad,73762519.0
+Watermelons,2011,1520.2112,Mahmoud Ahmadinejad,74634957.0
+Watermelons,2012,2504.3975,Mahmoud Ahmadinejad,75539878.0
+Watermelons,2013,4040.0316000000003,Hassan Rouhani,76481961.0
+Watermelons,2014,3784.7919,Hassan Rouhani,77465770.0
+Watermelons,2015,3640.8805,Hassan Rouhani,78492215.0
+Watermelons,2016,4565.9978,Hassan Rouhani,79563989.0
+Watermelons,2017,3113.2762000000002,Hassan Rouhani,80673883.0
+Watermelons,2018,8859.315200000001,Hassan Rouhani,81800188.0
+Wheat,1991,136.02819999999997,Akbar Hashemi Rafsanjani,57679034.00000001
+Wheat,1992,149.078,Akbar Hashemi Rafsanjani,58780370.0
+Wheat,1993,225.348,Akbar Hashemi Rafsanjani,59723764.0
+Wheat,1994,266.7885,Akbar Hashemi Rafsanjani,60590614.0
+Wheat,1995,330.3375,Akbar Hashemi Rafsanjani,61442664.00000001
+Wheat,1996,421.6868,Akbar Hashemi Rafsanjani,62294920.0
+Wheat,1997,484.3797,Mohammad Khatami,63136312.00000001
+Wheat,1998,596.6365999999999,Mohammad Khatami,63971835.99999999
+Wheat,1999,672.1092,Mohammad Khatami,64800880.0
+Wheat,2000,875.1237,Mohammad Khatami,65623405.0
+Wheat,2001,1048.3263,Mohammad Khatami,66449112.00000001
+Wheat,2002,1286.7741,Mohammad Khatami,67284796.0
+Wheat,2003,1499.319,Mohammad Khatami,68122938.0
+Wheat,2004,1694.1770999999999,Mohammad Khatami,68951281.0
+Wheat,2005,1866.0965999999999,Mahmoud Ahmadinejad,69762347.00000001
+Wheat,2006,2067.835,Mahmoud Ahmadinejad,70554760.0
+Wheat,2007,2039.0357,Mahmoud Ahmadinejad,71336475.0
+Wheat,2008,2925.5083999999997,Mahmoud Ahmadinejad,72120604.0
+Wheat,2009,3053.8944000000006,Mahmoud Ahmadinejad,72924837.0
+Wheat,2010,3188.994,Mahmoud Ahmadinejad,73762519.0
+Wheat,2011,3411.9824,Mahmoud Ahmadinejad,74634957.0
+Wheat,2012,4362.3025,Mahmoud Ahmadinejad,75539878.0
+Wheat,2013,7608.6648,Hassan Rouhani,76481961.0
+Wheat,2014,10474.9758,Hassan Rouhani,77465770.0
+Wheat,2015,11534.773600000002,Hassan Rouhani,78492215.0
+Wheat,2016,12421.245200000001,Hassan Rouhani,79563989.0
+Wheat,2017,12898.3332,Hassan Rouhani,80673883.0
+Wheat,2018,13051.961599999999,Hassan Rouhani,81800188.0
