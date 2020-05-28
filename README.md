@@ -76,3 +76,10 @@ we choose 3 datasets from these datasets for the first step of our analyzing pro
 **FAOSTAT_IRAN_PRODUCER_PRICES.csv**
 
 ![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/price%20after.png)
+
+
+### Writers 
+
+* [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
+
+* [Bahram Jannesar](https://github.com/BahramJannesar) ( :pencil2: )
