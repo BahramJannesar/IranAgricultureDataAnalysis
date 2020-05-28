@@ -31,3 +31,10 @@ We gathering all of the data from Iran in this repo and analyzed some of them as
  
   ما همه داده های ایران را در این رپو جمع آوری کرده ایم و برخی از آنها را همانطور که می بینید تجزیه و تحلیل کردیم
   و این روند برای بقیه آن ها نیز ادامه دارد 
+
+### Analyz 
+we choose 3 datasets from these datasets for the first step of our analyzing process :
+
+*  **FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv** it is about the value of iranian rial (IRR) from 1970 to 2020
+*  **FAOSTAT_IRAN_POPULATION.csv** it is about the population of iran from 1950 to 2020 of iranian rial with sex columns
+*  **FAOSTAT_IRAN_PRODUCER_PRICES.csv** it is about the producer pirces from 1991 to 2020 for some important products
