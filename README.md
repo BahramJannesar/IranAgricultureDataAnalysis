@@ -32,7 +32,7 @@ We gathering all of the data from Iran in this repo and analyzed some of them as
   ما همه داده های ایران را در این رپو جمع آوری کرده ایم و برخی از آنها را همانطور که می بینید تجزیه و تحلیل کردیم
   و این روند برای بقیه آن ها نیز ادامه دارد 
 
-### Analyz 
+## Analyz 
 
 we choose 3 datasets from these datasets for the first step of our analyzing process :
 
@@ -48,7 +48,7 @@ we choose 3 datasets from these datasets for the first step of our analyzing pro
 * **FAOSTAT_IRAN_POPULATION.csv** مربوط به جمعیت ایران از 1950 تا 2020 ریال ایرانی با ستون جنسیت است
 * **FAOSTAT_IRAN_PRODUCER_PRICES.csv** در مورد قیمت تولید کننده ها از سال 1991 تا 2020 برای برخی از محصولات مهم است
 
-#### Columns before cleaning data 
+## Columns before cleaning data 
 
 **FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv**
 
@@ -63,7 +63,7 @@ we choose 3 datasets from these datasets for the first step of our analyzing pro
 ![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/price.png)
 
 
-#### Columns after cleaning data 
+## Columns after cleaning data 
 
 **FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv**
 
