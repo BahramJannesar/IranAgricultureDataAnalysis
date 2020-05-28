@@ -40,10 +40,12 @@ we choose 3 datasets from these datasets for the first step of our analyzing pro
 *  **FAOSTAT_IRAN_POPULATION.csv** it is about the population of iran from 1950 to 2020 of iranian rial with sex columns
 *  **FAOSTAT_IRAN_PRODUCER_PRICES.csv** it is about the producer pirces from 1991 to 2020 for some important products
 
-### تجزیه و تحلیل
+#### تجزیه و تحلیل
 
 ما برای اولین مرحله از روند تجزیه و تحلیل ما 3 مجموعه داده از این مجموعه داده ها را انتخاب می کنیم:
 
 * **FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv** درمورد ارزش ریال ایرانی از 1970 تا 2020
 * **FAOSTAT_IRAN_POPULATION.csv** مربوط به جمعیت ایران از 1950 تا 2020 ریال ایرانی با ستون جنسیت است
 * **FAOSTAT_IRAN_PRODUCER_PRICES.csv** در مورد قیمت تولید کننده ها از سال 1991 تا 2020 برای برخی از محصولات مهم است
+
+#### Columns before cleaning data 
