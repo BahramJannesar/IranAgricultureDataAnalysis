@@ -49,3 +49,30 @@ we choose 3 datasets from these datasets for the first step of our analyzing pro
 * **FAOSTAT_IRAN_PRODUCER_PRICES.csv** در مورد قیمت تولید کننده ها از سال 1991 تا 2020 برای برخی از محصولات مهم است
 
 #### Columns before cleaning data 
+
+**FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/exchange.png)
+
+**FAOSTAT_IRAN_POPULATION.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/pop.png)
+
+**FAOSTAT_IRAN_PRODUCER_PRICES.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/price.png)
+
+
+#### Columns after cleaning data 
+
+**FAOSTAT_IRAN_EXCHANGE_RATES_ANNUAL.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/Excahnge%20after.png)
+
+**FAOSTAT_IRAN_POPULATION.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/pop%20after.png)
+
+**FAOSTAT_IRAN_PRODUCER_PRICES.csv**
+
+![](https://github.com/BahramJannesar/IranAgricultureDataAnalysis/blob/master/image/price%20after.png)
