@@ -1,6 +1,6 @@
 ## Agriculture in Iran
 
-Roughly one-third of [Iran](https://en.wikipedia.org/wiki/Iran)'s total surface area is suited for farmland, but because of poor soil and lack of adequate water distribution in many areas, most of it is not under cultivation. Only 12% of the total land area is under cultivation (arable land, orchards and vineyards) but less than one-third of the cultivated area is irrigated; the rest is devoted to dryland farming. Some 92 percent of agricultural products depend on water.The western and northwestern portions of the country have the most fertile soils. Iran's food security index stands at around 96 percent .
+Roughly one-third of [Iran](https://en.wikipedia.org/wiki/Iran)'s total surface area is suited for farmland, but because of poor soil and lack of adequate water distribution in many areas, most of it is not under cultivation. Only 12% of the total land area is under cultivation (arable land, orchards and vineyards) but less than one-third of the cultivated area is irrigated; the rest is devoted to dryland farming. Some 92 percent of agricultural products depend on water.The western and northwestern portions of the country have the most fertile soils. Iran's food security index stands at around 96 percent.
 
 ### کشاورزی در ایران
 
